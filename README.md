@@ -1,22 +1,35 @@
-﻿# [AT89S52](https://github.com/sochub/AT89S52) 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
-#### 厂商：[ATMEL](https://github.com/sochub/WCH)
-#### 架构：[8051](https://github.com/sochub/8051) 
+﻿# [MDM9206](https://github.com/SoCXin/MDM9206)
 
-### [AT89S52简介](https://github.com/sochub/AT89S52/wiki)
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-AT89S52是一款增强型8051内核单片机
+* [Qualcomm](https://www.qualcomm.com): [Cortex-A7](https://github.com/SoCXin/Cortex)
+* [L7R7](https://github.com/SoCXin/Level): 1.3 GHz
 
+## [简介](https://github.com/SoCXin/MDM9206/wiki)
 
-### [资源收录](https://github.com/sochub/AT89S52)
+[MDM9206](https://github.com/SoCXin/MDM9206)  LTE IoT调制解调器是一款专为支持全球多模功能而打造的解决方案，它可支持eMTC（Cat M1）、NB-IoT（Cat NB-1），以及2G/E-GPRS。MDM9206 LTE IoT调制解调器与全新的LTE IoT SDK配合，可促进开发极具成本效益的低功耗终端，支持长达数年的电池续航，还能实现相较于传统LTE更广泛的覆盖。迄今为止，已有近90款设计正采用全球多模MDM9206 LTE IoT调制解调器，支持LTE Cat M1和NB1。
 
-* [文档](docs/)
-* [资源](src/)
-	* [keil工程](src/keil/)
+[![sites](docs/MDM9206.png)](https://www.qualcomm.com/products/qualcomm-9206-lte-modem)
 
+### 关键特性
 
-### [选型建议](https://github.com/sochub/AT89S52)
-
+* LTE Cat-M1
+* LTE Cat-NB1
 
 
-###  [SoC资源平台](http://www.qitas.cn)  
+#### 封装规格
+
+* TFBGA96 (6×6mm)
+
+
+### [资源收录](https://github.com/SoCXin)
+
+* [参考资源](src/)
+* [参考文档](docs/)
+* [参考工程](project/)
+
+### [选型建议](https://github.com/SoCXin)
+
+[MDM9206](https://github.com/SoCXin/MDM9206)
+
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)

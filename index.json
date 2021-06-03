@@ -1,0 +1,31 @@
+{
+    "type":"SoC",
+    "name":"MDM9206",
+    "title": "Qualcomm MDM9206 SoC",
+    "description":"Qualcomm Cortex-A7 SoC",
+    "Core": {
+        "type":"Cortex-A7",
+        "Freq":550,
+        "DMIPS": 1177,
+        "CoreMark": 2778
+    },
+    "manufacturer": {
+        "vendor":"Qualcomm",
+        "homepage":"https://www.st.com/content/st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-high-performance-mcus/stm32h7-series/MDM9206-value-line.htm"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/MDM9206.git"
+    },
+    "version":"1.0.0",
+    "series":["MDM9206Z","MDM9206V","MDM9206R","MDM9206C","MDM9206T"],
+    "package":["LQFP144","LQFP100","LQFP64","LQFP48","QFN36"],
+    "peripheral": ["ADC","UART","I2C","SPI","PWM"],
+    "keywords": [
+        "dev-platform",
+        "ARM",
+        "Cortex-M",
+        "ADC","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "3.6V","1.8V"
+    ]
+}
